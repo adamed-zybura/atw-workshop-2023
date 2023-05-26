@@ -1,12 +1,12 @@
 {
   "name": "atw-workshop-2023",
   "version": "1.0.0",
-  "description": "",
+  "description": "This repo was created as part of the [Test automation Mapping Workshop at Automatyzcja Testów W Praktyce Conference](https://atwpraktyce.pl/)",
   "main": "index.js",
   "scripts": {
     "test": "npx cypress run",
     "test:ci": "npx cypress-cloud",
-    "setup": "npx cypress-cloud run --record --parallel --browser chrome  --ci-build-id run-team-test"
+    "setup": "npx cypress-cloud run --record --parallel --browser chrome  --ci-build-id run-team-test5"
   },
   "repository": {
     "type": "git",
